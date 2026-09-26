@@ -1,0 +1,14 @@
+numb:  4329241919
+name:  Whitney E Bell
+Account 427020758851
+================
+zip:       15021
+bill:        $117====$81.90
+lines:     1
+================
+email:  w******l4@gmail.com==== webell4@gmail.com 
+===============
+current: samsung s22ultra 
+offer:    
+================
+https://www.att.com/acctmgmt/order/details?appid=CHCK&cid=%3Ccid%3E&ordertype=UPGRADE_WIRELESS&lastName=BELL&orderId=23-395303363786591&zipCode=15021

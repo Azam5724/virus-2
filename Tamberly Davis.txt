@@ -1,0 +1,17 @@
+go to store 
+-----------------------
+Name= Tamberly Davis
+------------------------
+Phone= 7736776237 
+------------------------
+address= 12549 S Princeton Ave, Chicago, IL 60628
+         10642 S Avenue O Chicago, IL 60617, 
+------------------------
+Bill= 360
+Dbill= 250
+-------------------------
+Email= tamberly.td@gmail.com
+-------------------------
+Lines =4 
+---------- ---------------
+apple watch ultra 3 

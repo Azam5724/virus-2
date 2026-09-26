@@ -1,0 +1,8 @@
+Num: 3305659543
+name: Wynona L Mcgarry
+======
+zip:      44442
+bill:       $
+lines:    
+--------------------
+card;

@@ -1,0 +1,6 @@
+NUMB:  9728005195 
+NAME: William H Ashley
+======
+ZIP:      77044
+BILL:    $220===$143.00
+LINES:  4

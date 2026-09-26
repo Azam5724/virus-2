@@ -1,0 +1,23 @@
+acc= 100815383 
+Name= Susan A Jankowski 
+Phone= 4144266957
+address= 4221 S 6th St LOT A22 Milwaukee, WI 53221
+---------------- ---
+Bill=$ 87
+Disc=30%
+Dbill= $60.90
+-----------------
+Email=  susieq5794@gmail.com 
+line=. 2  1 tablet and internet
+offer= samsung s 25 ultra 
+pin= 7594
+==================
+visa debit= 4264230005511106
+name= Susan Jankowski 
+exp= 11/29
+Cvv=552
+billing address= 4221 S 6th St LOT A22 Milwaukee, WI 53221
+==========
+tfdjxs
+ssn= 2001
+dob= 05/22/1960

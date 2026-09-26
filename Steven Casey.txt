@@ -1,0 +1,10 @@
+num:   8596130402
+name: Steven Casey
+======
+zip:     40342 
+bill:      internet:55$==$33.00==wireless: 
+lines:   4
+======
+past due: 280.82$
+======
+his friend is the main account holder of this num

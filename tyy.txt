@@ -1,0 +1,13 @@
+numb:   8033195870
+name:   Linda Laurick
+====
+zip:      29172
+bill:      $60==$39.00
+lines:  
+====
+email: Lindalorick125@gmail.com
+====
+current: 
+offer:    
+====
+call back on tommorow

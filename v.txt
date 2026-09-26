@@ -1,0 +1,7 @@
+num:   9035867265
+name: Kathy Smith
+=======
+zip:     75742
+bill:     500$
+lines:   3
+=======
