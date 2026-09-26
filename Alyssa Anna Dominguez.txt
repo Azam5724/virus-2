@@ -1,0 +1,8 @@
+numb: 9856302783
+name: Alyssa Anna Dominguez
+=--=-=-=-=-=-=-=-=
+zip:      70435
+bill:      $95===$61.75
+lines:    1
+=-=-=-=-=-=-=-=-=-=
+email:  a**********23@gmail.com

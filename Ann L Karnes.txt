@@ -1,0 +1,26 @@
+Phn= 9048878619
+=============
+Name= Ann L Karnes
+=============
+Bill= 271
+disc= 169
+============
+Line= 4 
+================
+Address= 1118 7th Ave N, Jacksonville Beach, FL 32250 
+===============
+E-Mail= avkarnes@gmail.com 
+==============
+apple i phone 17 pro max 
+deep blue 
+256gb
+-------------------------
+credit=  4100390176921274
+cvv= 488
+exp= 08/29
+Name= DANIEL KARNES
+Address= 1118 7th Ave N, Jacksonville Beach, FL 32250
+============
+Pablo Creek Store
+3267 Hodges Blvd, Jacksonville FL 32224
+904.512.7661

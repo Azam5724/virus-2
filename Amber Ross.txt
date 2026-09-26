@@ -1,0 +1,16 @@
+Phn= 5303915484
+=========
+Name= Amber Ross
+=========
+LINES= 4
+=========
+Address= 3750 Fort Jim Rd, Placerville, CA 95667
+=========
+E-mail= hamptonamber77@gmail.com
+=========
+bill= $234
+disc=  163
+=========
+offer= apple watch ultra 3 
+=========
+23-378446249704323
