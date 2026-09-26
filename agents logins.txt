@@ -1,0 +1,14 @@
+http://samus.btsdialer.com:81/valid8.php        
+User: AdminSam
+Pass: saMuSS77676
+User: 3001 to 3010
+https://samus.btsdialer.com/    
+Pass: samus9888
+------
+https://samus.btsdialer.com/               
+User : AdminSam
+Pass : saMuSS77676
+Agent:
+https://samus.btsdialer.com/                
+User: 3001 to 3020
+Pass: samus9888 
