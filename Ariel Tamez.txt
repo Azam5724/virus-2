@@ -1,0 +1,10 @@
+numb: 2106203187
+name: Ariel Tamez
+================
+zip:     78250--9802 Boulder Hill St, San Antonio,
+TX 78250 3301
+bill:      $
+direct tv:     $
+cell phone: $
+lines:   7
+================
