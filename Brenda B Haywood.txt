@@ -1,0 +1,16 @@
+num: 2293796377
+name: Brenda B Haywood
+======
+zip: 31799
+bill: 
+lines:
+-----------
+5088018699
+shela 
+============
+num:   2524308124
+name: Alice W Bullock
+----
+zip:     27537
+bill:     $275===$178.75
+lines:   landline

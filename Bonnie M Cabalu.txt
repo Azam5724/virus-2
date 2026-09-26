@@ -1,0 +1,13 @@
+NUM:   3522192885
+NAME: Bonnie M Cabalu AGE:68
+-------
+ZIP:      33523
+BILL:    $48.98===$31.79
+LINES:  2
+-------
+CURRENT: SAMSUNG 
+OFFER:
+======
+DISSCONECTED
+---------
+ERIC 
