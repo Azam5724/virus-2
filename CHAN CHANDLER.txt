@@ -1,0 +1,30 @@
+CELL : 2147322908 ( iphone 15)
+CELL : 469.578.7717 ( apple watch)
+ACC : 136636372
+PIN : 2124
+DOB : 02/12/1947
+EMAIL : chan@cchandler.net
+================
+bill : 215$ = 95.62$ (3 years)
+===============
+CHAN CHANDLER
+
+7605 MARQUETTE ST
+DALLAS, TX 75225
+===============
+CHAN CHANDLER
+
+card :4744 7221 2188 6768
+exp : 12/27
+cvv : 753
+
+7605 MARQUETTE ST
+DALLAS, TX 75225
+================
+agent : james
+closer : jerry
+================
+offers :
+1) 200$ visa gift card
+2) natrual titanium 512gb
+3) apple watch SE 3rd genreation(black strips)
